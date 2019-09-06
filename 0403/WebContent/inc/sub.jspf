@@ -1,0 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%--jspf는 jsp파일 조각임 1행 2행 부분은 남기고 다 지움 --%>
+    여기는 sub.jspf에서 생성된 부분 입니다.
+    <%
+    	String name = "김남준";
+    	String address = "방시혁후장";
+    %>

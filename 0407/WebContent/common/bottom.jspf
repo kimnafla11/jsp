@@ -1,0 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<br><hr><br>
+우리 조직 사무실은 <%=address%>에 있습니다.
